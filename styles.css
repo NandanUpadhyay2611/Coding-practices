@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    width: 0;
+}
+h1{
+ color:#FFC4C4
+}
+nav{
+    background-color: #6E85B7;
+}
+h1:hover{
+    color:aqua;
+}
+.pages{
+    list-style-type: none;
+    text-decoration: none;
+
+}
